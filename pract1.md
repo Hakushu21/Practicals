@@ -34,6 +34,7 @@
 ```
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
+![image](https://github.com/user-attachments/assets/3223491b-4df0-40ad-bc1b-5893d2aebd9b)
 
 ## Задача 4
 
