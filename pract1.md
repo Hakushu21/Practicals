@@ -35,6 +35,8 @@
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
 ![image](https://github.com/user-attachments/assets/3223491b-4df0-40ad-bc1b-5893d2aebd9b)
+![image](https://github.com/user-attachments/assets/9f3ea1f0-20bd-4a24-92b3-2845f59db26b)
+
 
 ## Задача 4
 
