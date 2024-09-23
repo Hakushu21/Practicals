@@ -63,6 +63,7 @@ h hello include int main n printf return stdio void world
 ```
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
+![image](https://github.com/user-attachments/assets/a302533f-6469-4830-a7c4-18a0169c988e)
 
 ## Задача 6
 
