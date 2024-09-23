@@ -48,6 +48,9 @@
 ```
 h hello include int main n printf return stdio void world
 ```
+![image](https://github.com/user-attachments/assets/88717265-17c4-4946-b609-146d612c8927)
+![image](https://github.com/user-attachments/assets/702573ee-ea57-4b9a-b44c-35e358dad789)
+![image](https://github.com/user-attachments/assets/90e4ab22-6cf6-415f-832e-8c299dd3dab3)
 
 ## Задача 5
 
